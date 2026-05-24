@@ -1,0 +1,25 @@
+{
+  "icons": [
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "src": "/icons/waraxis-icon.svg",
+      "type": "image/svg+xml"
+    },
+    {
+      "purpose": "any",
+      "sizes": "512x512",
+      "src": "/icons/waraxis-icon.svg",
+      "type": "image/svg+xml"
+    }
+  ],
+  "orientation": "portrait",
+  "display_override": ["fullscreen", "minimal-ui"],
+  "display": "standalone",
+  "dir": "auto",
+  "lang": "en",
+  "name": "Waraxis",
+  "short_name": "Waraxis",
+  "start_url": "/",
+  "id": "/"
+}

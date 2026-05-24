@@ -1,0 +1,10 @@
+<svg width="1364" height="259" viewBox="0 0 1364 259" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1364" height="259" rx="30" fill="#071013"/>
+  <path d="M84 196L128 62H173L128 196H84Z" fill="#D6B25E"/>
+  <path d="M151 196L195 62H239L195 196H151Z" fill="#79B8C8"/>
+  <path d="M108 150H220L209 184H96L108 150Z" fill="#E9F0E6"/>
+  <path d="M132 74H245L234 108H121L132 74Z" fill="#E9F0E6"/>
+  <text x="306" y="173" fill="#E9F0E6" font-family="Arial, Helvetica, sans-serif" font-size="122" font-weight="800" letter-spacing="18">WARAXIS</text>
+  <path d="M306 207H1048" stroke="#D6B25E" stroke-width="8" stroke-linecap="round"/>
+  <text x="1085" y="209" fill="#79B8C8" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing="8">ALPHA</text>
+</svg>
