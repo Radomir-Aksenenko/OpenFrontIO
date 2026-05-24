@@ -69,7 +69,6 @@ import {
 import { installSafariPinchZoomBlocker } from "./utilities/DisableSafariPinchZoom";
 
 import "./components/DesktopNavBar";
-import "./components/Footer";
 import "./components/MainLayout";
 import "./components/MobileNavBar";
 import "./components/PlayPage";

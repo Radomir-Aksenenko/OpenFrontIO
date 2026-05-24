@@ -1,10 +1,23 @@
 <svg width="1364" height="259" viewBox="0 0 1364 259" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1364" height="259" rx="30" fill="#071013"/>
-  <path d="M84 196L128 62H173L128 196H84Z" fill="#D6B25E"/>
-  <path d="M151 196L195 62H239L195 196H151Z" fill="#79B8C8"/>
-  <path d="M108 150H220L209 184H96L108 150Z" fill="#E9F0E6"/>
-  <path d="M132 74H245L234 108H121L132 74Z" fill="#E9F0E6"/>
-  <text x="306" y="173" fill="#E9F0E6" font-family="Arial, Helvetica, sans-serif" font-size="122" font-weight="800" letter-spacing="18">WARAXIS</text>
-  <path d="M306 207H1048" stroke="#D6B25E" stroke-width="8" stroke-linecap="round"/>
-  <text x="1085" y="209" fill="#79B8C8" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing="8">ALPHA</text>
+  <defs>
+    <linearGradient id="mark-gold" x1="52" y1="54" x2="230" y2="214" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6D47C"/>
+      <stop offset="1" stop-color="#B88935"/>
+    </linearGradient>
+    <linearGradient id="mark-cyan" x1="124" y1="44" x2="270" y2="206" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9DE7F1"/>
+      <stop offset="1" stop-color="#3FA9F5"/>
+    </linearGradient>
+    <linearGradient id="wordmark" x1="312" y1="56" x2="1115" y2="202" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#CFE8F2"/>
+    </linearGradient>
+  </defs>
+  <path d="M75 211L128 48H181L128 211H75Z" fill="url(#mark-gold)"/>
+  <path d="M154 211L207 48H260L207 211H154Z" fill="url(#mark-cyan)"/>
+  <path d="M103 151H232L220 188H91L103 151Z" fill="#F4F7F2"/>
+  <path d="M119 71H248L236 108H107L119 71Z" fill="#F4F7F2"/>
+  <path d="M64 224H252" stroke="#D6B25E" stroke-width="10" stroke-linecap="round" opacity="0.75"/>
+  <text x="312" y="174" fill="url(#wordmark)" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="132" font-weight="900" letter-spacing="14">WARAXIS</text>
+  <path d="M316 205H1068" stroke="#3FA9F5" stroke-width="6" stroke-linecap="round" opacity="0.85"/>
 </svg>

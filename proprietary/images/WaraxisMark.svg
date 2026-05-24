@@ -1,7 +1,19 @@
 <svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="512" height="512" rx="96" fill="#071013"/>
-  <path d="M118 385L201 111H287L204 385H118Z" fill="#D6B25E"/>
-  <path d="M229 385L312 111H394L311 385H229Z" fill="#79B8C8"/>
-  <path d="M151 292H359L338 354H130L151 292Z" fill="#E9F0E6"/>
-  <path d="M191 157H399L378 219H170L191 157Z" fill="#E9F0E6"/>
+  <defs>
+    <linearGradient id="mark-gold" x1="101" y1="86" x2="324" y2="425" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6D47C"/>
+      <stop offset="1" stop-color="#B88935"/>
+    </linearGradient>
+    <linearGradient id="mark-cyan" x1="196" y1="76" x2="398" y2="407" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9DE7F1"/>
+      <stop offset="1" stop-color="#3FA9F5"/>
+    </linearGradient>
+  </defs>
+  <rect x="32" y="32" width="448" height="448" rx="92" fill="#071013"/>
+  <rect x="32" y="32" width="448" height="448" rx="92" stroke="#203541" stroke-width="14"/>
+  <path d="M113 400L202 103H294L205 400H113Z" fill="url(#mark-gold)"/>
+  <path d="M224 400L313 103H405L316 400H224Z" fill="url(#mark-cyan)"/>
+  <path d="M145 291H371L350 356H124L145 291Z" fill="#F4F7F2"/>
+  <path d="M171 156H397L376 221H150L171 156Z" fill="#F4F7F2"/>
+  <path d="M104 420H372" stroke="#D6B25E" stroke-width="18" stroke-linecap="round" opacity="0.75"/>
 </svg>
