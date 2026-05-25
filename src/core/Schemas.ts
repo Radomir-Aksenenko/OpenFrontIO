@@ -641,7 +641,6 @@ export const ServerMessageSchema = z.discriminatedUnion("type", [
 export const ClientSendWinnerSchema = z.object({
   type: z.literal("winner"),
   winner: WinnerSchema,
-  allPlayersStats: AllPlayersStatsSchema,
 });
 
 export const ClientHashSchema = z.object({
